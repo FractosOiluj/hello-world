@@ -8,3 +8,7 @@ exploring its tools such as pandas, numpy, as well as SQL, AWS.
 add infs:
 Im Deep connected to Nature; like classic music, books, meditation..
 I dislike noise, crowded places, fake people and the politicians in general.
+
+(jan/2023)
+## I've just finished an amazing introductory course from Havard. I've learn the very basic main concepts such as big O time/space, DataStructure amoung others..
+
